@@ -12,5 +12,8 @@ public class Class01 {
 
         int z= 4;
         System.out.println(x+y+z);
+
+        //versiyon 3
+        System.out.println("versiyon 3 kodları");
     }
 }
